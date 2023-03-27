@@ -6,7 +6,8 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [Chatbot](#category)
 - [Copywriting](#copywriting)
-- []()
+- [Image Generator](#image-generator)
+- [Image Editing](#image-editing)
 
 ## Chatbot
 
@@ -18,4 +19,15 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [Copy.ai](https://www.copy.ai/)
 - [Jasper.ai](https://www.jasper.ai/)
+- []()
+
+## Image Generator
+
+- [Midjourney](https://www.midjourney.com)
+- [DALL·E](https://openai.com/product/dall-e-2)
+- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+
+## Image Editing
+
+- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 - []()
