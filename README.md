@@ -4,8 +4,8 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 ## Summary
 
-- [Chatbot](category)
-- [Copywriting](copywriting)
+- [Chatbot](#category)
+- [Copywriting](#copywriting)
 - []()
 
 ## Chatbot
