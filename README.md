@@ -5,8 +5,17 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 ## Summary
 
 - [Chatbot](category)
+- [Copywriting](copywriting)
+- []()
 
 ## Chatbot
 
 - [ChatGpt](https://chat.openai.com/chat)
 - [Google Bard](https://bard.google.com/)
+- []()
+
+## Copywriting
+
+- [Copy.ai](https://www.copy.ai/)
+- [Jasper.ai](https://www.jasper.ai/)
+- []()
