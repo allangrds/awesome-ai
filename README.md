@@ -25,6 +25,7 @@ Repository of AI tools including ChatGPT for automating tasks and improving proc
 
 - [ChatGpt](https://chat.openai.com/chat)
 - [Google Bard](https://bard.google.com/)
+- [Writesonic](https://writesonic.com/chat)
 
 ## Copywriting
 
@@ -55,6 +56,7 @@ Repository of AI tools including ChatGPT for automating tasks and improving proc
 ## Productivity
 
 - [Timely](https://timelyapp.com/): Say hello to automatic time tracking Timely automates company time tracking, so you and your team can focus on the work that matters
+- [Notion.ai](https://www.notion.so/help/guides/using-notion-ai)
 
 ## Video
 
