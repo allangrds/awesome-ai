@@ -11,9 +11,11 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 - [Image Editing](#image-editing)
 - [Meetings](#calls)
 - [Presentation](#presentation)
+- [Productivity](#productivity)
 - [Video](#video)
 - [Video generator](#video-generator)
 - [Text to audio](#text-to-audio)
+
 
 ## Books
 
@@ -51,6 +53,10 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [Tome](https://beta.tome.app/): Generative storytelling has arrived. Unlock your best work with Tome's AI-powered storytelling format.
 
+## Productivity
+
+- [Timely](https://timelyapp.com/): Say hello to automatic time tracking Timely automates company time tracking, so you and your team can focus on the work that matters
+
 ## Video
 
 - [Sonix.ai](https://sonix.ai/): Automatic transcription software
@@ -62,4 +68,4 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 ## Text to audio
 
-- [Murf.ai](https://murf.ai/): Go from text to speech with a versatile AI voice generator
+- [Murf.ai](https://murf.ai/): Go from text to speech with a versatile AI voice generator AI enabled, real people's voices Make studio-quality voice overs in minutes. Use Murf’s lifelike AI voices for podcasts, videos, and all your professional presentations
