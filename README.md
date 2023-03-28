@@ -1,6 +1,6 @@
 # AI tools
 
-Repository of AI tools including ChatGPT, image recognition and machine learning for automating tasks and improving processes. A great resource for exploring AI possibilities in applications and projects.
+Repository of AI tools including ChatGPT for automating tasks and improving processes. A great resource for exploring AI possibilities in applications and projects.
 
 ## Summary
 
