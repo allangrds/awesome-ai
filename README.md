@@ -5,22 +5,19 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 ## Summary
 
 - [Books](#books)
-- [Calls](#calls)
 - [Chatbot](#category)
 - [Copywriting](#copywriting)
 - [Image Generator](#image-generator)
 - [Image Editing](#image-editing)
+- [Meetings](#calls)
 - [Presentation](#presentation)
 - [Video](#video)
 - [Video generator](#video-generator)
+- [Text to audio](#text-to-audio)
 
 ## Books
 
 - [Arvore.ai](https://arvore.ai/): A better way to read books and boost your career. The future of reading is here. Read smarter and learn more effectively with our AI-powered assistant.
-
-## Calls
-
-- [MeetGeek](https://meetgeek.ai/): Automagically video record, transcribe, summarize, and share key insights from every meeting.
 
 ## Chatbot
 
@@ -45,6 +42,11 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 - []()
 
+## Meetings
+
+- [MeetGeek](https://meetgeek.ai/): Automagically video record, transcribe, summarize, and share key insights from every meeting.
+- [Fireflies.ai](https://fireflies.ai/): Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
+
 ## Presentation
 
 - [Tome](https://beta.tome.app/): Generative storytelling has arrived. Unlock your best work with Tome's AI-powered storytelling format.
@@ -57,3 +59,7 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [Synthesia](https://www.synthesia.io/)
 - []()
+
+## Text to audio
+
+- [Murf.ai](https://murf.ai/): Go from text to speech with a versatile AI voice generator
