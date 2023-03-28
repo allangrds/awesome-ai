@@ -10,6 +10,7 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 - [Copywriting](#copywriting)
 - [Image Generator](#image-generator)
 - [Image Editing](#image-editing)
+- [Presentation](#presentation)
 - [Video](#video)
 - [Video generator](#video-generator)
 
@@ -31,7 +32,7 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [Copy.ai](https://www.copy.ai/)
 - [Jasper.ai](https://www.jasper.ai/)
-- []()
+- [Jenni](https://jenni.ai/): Write blogs & articles faster with the help of AI. Discover and write about relevant research. Fanfiction or the next Tolkein? Jenni can help. Write your next compelling speech in less time.
 
 ## Image Generator
 
@@ -43,6 +44,10 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 - []()
+
+## Presentation
+
+- [Tome](https://beta.tome.app/): Generative storytelling has arrived. Unlock your best work with Tome's AI-powered storytelling format.
 
 ## Video
 
