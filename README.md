@@ -7,8 +7,8 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 - [Books](#books)
 - [Chatbot](#category)
 - [Copywriting](#copywriting)
-- [Image Generator](#image-generator)
 - [Image Editing](#image-editing)
+- [Image Generator](#image-generator)
 - [Meetings](#calls)
 - [Presentation](#presentation)
 - [Productivity](#productivity)
@@ -25,7 +25,6 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 
 - [ChatGpt](https://chat.openai.com/chat)
 - [Google Bard](https://bard.google.com/)
-- []()
 
 ## Copywriting
 
@@ -33,16 +32,15 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 - [Jasper.ai](https://www.jasper.ai/)
 - [Jenni](https://jenni.ai/): Write blogs & articles faster with the help of AI. Discover and write about relevant research. Fanfiction or the next Tolkein? Jenni can help. Write your next compelling speech in less time.
 
+## Image Editing
+
+- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+
 ## Image Generator
 
 - [Midjourney](https://www.midjourney.com)
 - [DALL·E](https://openai.com/product/dall-e-2)
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
-
-## Image Editing
-
-- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
-- []()
 
 ## Meetings
 
@@ -64,7 +62,6 @@ Repository of AI tools including ChatGPT, image recognition and machine learning
 ## Video Generator
 
 - [Synthesia](https://www.synthesia.io/)
-- []()
 
 ## Text to audio
 
