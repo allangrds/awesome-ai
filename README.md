@@ -41,6 +41,7 @@ Repository of AI tools including ChatGPT for automating tasks and improving proc
 - [Midjourney](https://www.midjourney.com)
 - [DALL·E](https://openai.com/product/dall-e-2)
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
+- [Leonardo.ai](https://leonardo.ai/): Create stunning game assets with AI.
 
 ## Meetings
 
