@@ -4,6 +4,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ## Summary
 
+- [Guides](#guides)
 - [Tools](#tools)
   - [Books](#books)
   - [Chatbot](#chatbot)
@@ -16,6 +17,13 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
   - [Video](#video)
   - [Video generator](#video-generator)
   - [Text to audio](#text-to-audio)
+
+
+## Guides
+
+### ChatGPT
+
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
 
 ## Tools
 
