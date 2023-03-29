@@ -1,4 +1,4 @@
-# Awesome AI
+# Awesome AI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 Repository of AI tools, tutorials and articlesfor automating tasks and improving processes. A great resource for exploring AI possibilities in applications and projects.
 
