@@ -43,6 +43,7 @@ Repository of AI tools including ChatGPT for automating tasks and improving proc
 - [DALL·E](https://openai.com/product/dall-e-2)
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 - [Leonardo.ai](https://leonardo.ai/): Create stunning game assets with AI.
+- [Scenario](https://www.scenario.com/): Create high-quality, style-consistent, proprietary assets for your games
 
 ## Meetings
 
