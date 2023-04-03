@@ -33,7 +33,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ### Chatbot
 
-- [ChatGpt](https://chat.openai.com/chat)
+- [**ChatGpt**](https://chat.openai.com/chat)
 - [Google Bard](https://bard.google.com/)
 - [Writesonic](https://writesonic.com/chat)
 - [Poe](https://poe.com/): GPT 4 and Claude
@@ -50,7 +50,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ### Image Generator
 
-- [Midjourney](https://www.midjourney.com)
+- [**Midjourney**](https://www.midjourney.com)
 - [DALL·E](https://openai.com/product/dall-e-2)
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 - [Leonardo.ai](https://leonardo.ai/): Create stunning game assets with AI.
