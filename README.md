@@ -36,6 +36,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 - [ChatGpt](https://chat.openai.com/chat)
 - [Google Bard](https://bard.google.com/)
 - [Writesonic](https://writesonic.com/chat)
+- [Poe](https://poe.com/): GPT 4 and Claude
 
 ### Copywriting
 
