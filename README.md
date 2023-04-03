@@ -73,6 +73,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 ### Video
 
 - [Sonix.ai](https://sonix.ai/): Automatic transcription software
+- [Whisper](https://github.com/ggerganov/whisper.cpp): High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model
 
 ### Video Generator
 
