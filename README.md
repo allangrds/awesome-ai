@@ -24,7 +24,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ### ChatGPT
 
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+- [**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts): In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
 
 ## Tools
 
@@ -54,7 +54,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 - [**Midjourney**](https://www.midjourney.com)
 - [DALL·E](https://openai.com/product/dall-e-2)
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
-- [Leonardo.ai](https://leonardo.ai/): Create stunning game assets with AI.
+- [**Leonardo.ai**](https://leonardo.ai/): Create stunning game assets with AI.
 - [Scenario](https://www.scenario.com/): Create high-quality, style-consistent, proprietary assets for your games
 - [Lexica](https://lexica.art/): The Stable Diffusion search engine
 
