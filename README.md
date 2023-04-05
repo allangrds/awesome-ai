@@ -75,7 +75,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ### Research
 
-- [Typeset](https://typeset.io/?utm_source=Ads&utm_medium=Twitter&utm_campaign=Follow): Highlight confusing text, math, and tables to get a simple explanation; Ask follow-up questions and get instant answers; A new way to search and find relevant papers without specifying keywords
+- [**Typeset**](https://typeset.io/?utm_source=Ads&utm_medium=Twitter&utm_campaign=Follow): Highlight confusing text, math, and tables to get a simple explanation; Ask follow-up questions and get instant answers; A new way to search and find relevant papers without specifying keywords
 
 ### Video
 
