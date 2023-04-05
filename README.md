@@ -14,6 +14,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
   - [Meetings](#meetings)
   - [Presentation](#presentation)
   - [Productivity](#productivity)
+  - [Research](#research)
   - [Video](#video)
   - [Video generator](#video-generator)
   - [Text to audio](#text-to-audio)
@@ -70,6 +71,11 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 - [Timely](https://timelyapp.com/): Say hello to automatic time tracking Timely automates company time tracking, so you and your team can focus on the work that matters
 - [Notion.ai](https://www.notion.so/help/guides/using-notion-ai)
+
+
+### Research
+
+- [Typeset](https://typeset.io/?utm_source=Ads&utm_medium=Twitter&utm_campaign=Follow): Highlight confusing text, math, and tables to get a simple explanation; Ask follow-up questions and get instant answers; A new way to search and find relevant papers without specifying keywords
 
 ### Video
 
