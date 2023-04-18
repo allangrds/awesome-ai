@@ -5,6 +5,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 ## Summary
 
 - [Guides](#guides)
+- [Models](#models)
 - [Others](#others)
 - [Tools](#tools)
   - [Books](#books)
@@ -26,6 +27,11 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 ### ChatGPT
 
 - [**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts): In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+
+## Models
+
+- [CivitAI](https://civitai.com/): Civitai is a platform that makes it easy for people to share and discover resources for creating AI art. Our users can upload and share custom models that they've trained using their own data, or browse and download models created by other users. These models can then be used with AI art software to generate unique works of art.
+
 
 ## Others
 
