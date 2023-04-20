@@ -63,7 +63,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ### Document analysis
 
-- [**Doclime**](https://doclime.com/): Import your PDF; Get answers instantly. Say goodbye to manual document search and get answers within seconds.
+- [Doclime](https://doclime.com/): Import your PDF; Get answers instantly. Say goodbye to manual document search and get answers within seconds.
 
 ### Image Editing
 
