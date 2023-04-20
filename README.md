@@ -11,6 +11,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
   - [Books](#books)
   - [Chatbot](#chatbot)
   - [Copywriting](#copywriting)
+  - [Document analysis](#document-analysis)
   - [Image Editing](#image-editing)
   - [Image Generator](#image-generator)
   - [Meetings](#meetings)
@@ -60,6 +61,10 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 - [Jasper.ai](https://www.jasper.ai/)
 - [Jenni](https://jenni.ai/): Write blogs & articles faster with the help of AI. Discover and write about relevant research. Fanfiction or the next Tolkein? Jenni can help. Write your next compelling speech in less time.
 
+### Document analysis
+
+- [**Doclime**](https://doclime.com/): Import your PDF; Get answers instantly. Say goodbye to manual document search and get answers within seconds.
+
 ### Image Editing
 
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -93,8 +98,8 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 ### Task performer
 
-- [Godmode.space AutoGPT](https://godmode.space/)
-- [AutoGTP](https://github.com/Significant-Gravitas/Auto-GPT): uto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.
+- [**Godmode.space AutoGPT**](https://godmode.space/)
+- [**AutoGTP**](https://github.com/Significant-Gravitas/Auto-GPT): uto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.
 
 ### Text to audio
 
