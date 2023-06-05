@@ -96,6 +96,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 ### Research
 
 - [**Typeset**](https://typeset.io/?utm_source=Ads&utm_medium=Twitter&utm_campaign=Follow): Highlight confusing text, math, and tables to get a simple explanation; Ask follow-up questions and get instant answers; A new way to search and find relevant papers without specifying keywords
+- [**Scite**](https://scite.ai/): Ask a question, get an answer backed by real researchFind sources for claims made by language models like ChatGPTFind expert analyses and opinions on any topicFind if research has been supported or contrastedFind appropriate references and data when writing papersFind highly supported researchers in Parkinson's diseaseFind Key Opinion Leaders researching Bevacizumab
 
 ### Task performer
 
