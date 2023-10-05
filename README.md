@@ -8,6 +8,7 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 - [Models](#models)
 - [Others](#others)
 - [Tools](#tools)
+  - [Audio](#audio)
   - [Books](#books)
   - [Chatbot](#chatbot)
   - [Copywriting](#copywriting)
@@ -26,6 +27,10 @@ Repository of AI tools, tutorials and articlesfor automating tasks and improving
 
 
 ## Guides
+
+### Audio
+
+- [**Kits.AI**](https://app.kits.ai/community-voices): The AI Voice generator toolkitto supercharge your music
 
 ### ChatGPT
 
